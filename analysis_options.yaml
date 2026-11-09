@@ -7,4 +7,8 @@ analyzer:
     - windows/**
     - macos/**
     - linux/**
+
+  errors:
+    unused_local_variable: ignore
+
 include: package:flutter_lints/flutter.yaml
