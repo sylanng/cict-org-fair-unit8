@@ -1,6 +1,38 @@
-# org_fair
+# CICT Org Fair Flutter App
 
-A new Flutter project.
+**Live Website:** https://sylanng.github.io/cict-org-fair-unit8/
+
+## Project Description
+
+The CICT Org Fair Flutter App is a mobile and web application that allows users to explore campus organizations, view upcoming events, and access organization-related information.
+
+## Features
+
+- Browse campus organizations.
+- View upcoming events and activities.
+- Access event schedules and venues.
+- View event cancellation status.
+- Retrieve event information from Contentful CMS.
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Contentful CMS
+- GitHub Actions
+- GitHub Pages
+
+## Version
+
+Version 1.1.0 (Build 2)
+
+## Deployment
+
+The web application is deployed through GitHub Pages using a GitHub Actions CI/CD workflow.
+
+## Repository
+
+https://github.com/sylanng/cict-org-fair-unit8
 
 ## Getting Started
 
